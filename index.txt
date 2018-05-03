@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
  撤销工作区中的修改  git checkout -- index.txt
 
  撤销add以后 git reset HEAD
 
  撤销commit  git revert HEAD^  
 
-=======
-affffsfsd
->>>>>>> parent of 2f1e48b... add
+
